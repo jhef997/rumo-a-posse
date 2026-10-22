@@ -1,0 +1,24 @@
+RUMO À POSSE - COMO INSTALAR NO ANDROID (sem programar)
+
+1) Abra https://app.netlify.com/drop (no celular ou no computador).
+2) Arraste a PASTA descompactada deste ZIP (com index.html dentro) para a página. Em segundos você ganha um link https://...netlify.app
+3) Abra o link no Chrome do Android > menu (3 pontinhos) > "Instalar app" / "Adicionar à tela inicial".
+4) Pronto: ícone na tela, abre em tela cheia e funciona sem internet (inclusive o leitor de PDF de edital).
+
+SEUS DADOS
+- Ficam salvos no aparelho (neste endereço). Seus dados antigos são migrados automaticamente, sem perda, e o app guarda pontos de restauração (cópias de segurança) automáticos.
+- Faça Backup toda semana (Mais > Backup): "Exportar TODOS" ou "Compartilhar" (WhatsApp/Drive). O app avisa na tela Hoje.
+- Se você usava o arquivo .html antigo ou outro endereço, exporte o backup de lá e restaure aqui em Backup > Restaurar. Os dados não passam sozinhos de um endereço para outro.
+
+ATUALIZAR O APP
+- Suba a nova pasta no mesmo site do Netlify (Deploys > arrastar de novo). O app instalado se atualiza sozinho ao abrir com internet.
+
+APK DE VERDADE
+- Com o link pronto, abra https://www.pwabuilder.com, cole o link e escolha Android.
+
+NOVIDADES v4
+- Aba Treinador: desafios diários, nível estimado, metas, estimativa para percorrer o edital.
+- Aba Mapas: mapa mental dos seus erros (precisa de pelo menos 3 erros no caderno), com plano de ataque.
+- Desempenho: curva de acertos/erros, qualidade do aprendizado (novas x repetidas), curva de erros e "o que melhorar".
+- Hoje > Buscar concurso: por enquanto só procura entre os concursos cadastrados. A busca na internet será conectada depois.
+- Menu e botões do topo corrigidos no celular. Rodapé: by Jefferson Rogerio.
